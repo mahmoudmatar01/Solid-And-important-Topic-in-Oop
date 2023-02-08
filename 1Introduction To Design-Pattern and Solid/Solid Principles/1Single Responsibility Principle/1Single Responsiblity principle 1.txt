@@ -1,0 +1,118 @@
+                               "Single responsibility principle"
+
+وهنا بيقصد ان من الافضل ان تخلي الكلاس بتاعك او الفانكشن اللي عندك في السوفت وير مسئوله عن امر واحد بش علشان ميحصلش تداخل في الخصائص بتاعه الكلاس
+
+1*the class should solve only one problem it shpuld have a single reason to change
+
+2* Do one thing and do it well 
+
+3*there should never be more than one reason for a class or function to change
+
+4*class or Function Should Have one job
+
+5* if we have a class that we change a lot, and for different reasons, 
+   then this class should be broken down into more classes, each handling a single concern
+
+
+
+
+                             => the code donot Support Single Responsibility principle <=
+
+class AreaCalculator
+{
+    protected $shapes;
+
+    public function __construct($shapes = [])
+    {
+        $this->shapes = $shapes;
+    }
+
+    public function sum()
+    {
+        foreach ($this->shapes as $shape) {
+            if (is_a($shape, 'Square')) {
+                $area[] = pow($shape->length, 2);
+            } elseif (is_a($shape, 'Circle')) {
+                $area[] = pi() * pow($shape->radius, 2);
+            }
+        }
+
+        return array_sum($area);
+    }
+
+    public function output()
+    {
+        return implode('', [
+          '',
+              'Sum of the areas of provided shapes: ',
+              $this->sum(),
+          '',
+      ]);
+    }
+}
+
+
+
+
+
+
+
+                                         =>the code After Support Single Responsibility<=
+
+
+
+class SumCalculatorOutputter
+{
+    protected $calculator;
+
+    public function __constructor(AreaCalculator $calculator)
+    {
+        $this->calculator = $calculator;
+    }
+
+    public function JSON()
+    {
+        $data = [
+          'sum' => $this->calculator->sum(),
+      ];
+
+        return json_encode($data);
+    }
+
+    public function HTML()
+    {
+        return implode('', [
+          '',
+              'Sum of the areas of provided shapes: ',
+              $this->calculator->sum(),
+          '',
+      ]);
+    }
+} 
+
+
+
+
+
+class AreaCalculator
+{
+    protected $shapes;
+
+    public function __construct($shapes = [])
+    {
+        $this->shapes = $shapes;
+    }
+
+    public function sum()
+    {
+        foreach ($this->shapes as $shape) {
+            if (is_a($shape, 'Square')) {
+                $area[] = pow($shape->length, 2);
+            } elseif (is_a($shape, 'Circle')) {
+                $area[] = pi() * pow($shape->radius, 2);
+            }
+        }
+
+        return array_sum($area);
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\bin\Debug\net7.0\ENCAPSUlATION.exe
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\bin\Debug\net7.0\ENCAPSUlATION.deps.json
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\bin\Debug\net7.0\ENCAPSUlATION.runtimeconfig.json
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\bin\Debug\net7.0\ENCAPSUlATION.dll
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\bin\Debug\net7.0\ENCAPSUlATION.pdb
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.AssemblyInfo.cs
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.dll
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\refint\ENCAPSUlATION.dll
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.pdb
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ENCAPSUlATION.genruntimeconfig.cache
+C:\Users\Hp\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\Design-Pattern Course with C#\0The Most Important Topics Of The Oop\ENCAPSUlATION\obj\Debug\net7.0\ref\ENCAPSUlATION.dll
